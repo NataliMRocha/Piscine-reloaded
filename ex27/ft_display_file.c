@@ -6,7 +6,7 @@
 /*   By: namoreir <namoreir@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/14 19:47:04 by namoreir          #+#    #+#             */
-/*   Updated: 2023/07/16 13:55:07 by namoreir         ###   ########.fr       */
+/*   Updated: 2023/07/16 15:08:48 by namoreir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,7 +32,7 @@ int	ft_display_file(char *argv)
 		return (1);
 	}
 	write(1, buf, rd);
-	if (close(fd == 1))
+	if (close(fd) == 1)
 		return (1);
 	return (0);
 }
