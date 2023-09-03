@@ -1,3 +1,3 @@
-# Piscine-reloaded
+# :books: Piscine-reloaded
 
 This list is a warm-up for the first few weeks as a cadet at the 42nd, software engineering school. The proposal is to review content seen in the pool, a 26-day immersion where you compete for a vacancy in the 42nd, and learn important content that was not achieved in this immersion but will be fundamental in training. In this list you can see basic concepts in Shell, such as changing permissions, creating text files and other commands. We also reviewed basic C concepts such as using while loops, reading and manipulating strings and pointers, performing recursion, learning Malloc, creating headers, making a makefile, and creating a program.
