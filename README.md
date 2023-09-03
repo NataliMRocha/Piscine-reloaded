@@ -1,8 +1,3 @@
 # Piscine-reloaded
 
-Essa lista é um esquenta para as primeiras semanas como cadete na 42, escola de engenharia de software.
-A proposta é revisar conteúdos vistos na piscina, uma imersão de 26 dias codando em que você concorre a uma vaga na 42,
-e aprender conteúdos importantes que não foram alcançados nesta imersão mas serão fundamentais na formação.
-Nesta lista é possível ver conceitos básicos em Shell, como mudar permissões, criar arquivos de texto e outros comandos.
-Também revisamos conceitos básicos em C como o uso de loops while, leitura e manipulação de strings e ponteiros,
-além de executar recursão, aprender o uso de Malloc, criar headers, fazer um makefile e criar um programa.
+This list is a warm-up for the first few weeks as a cadet at the 42nd, software engineering school. The proposal is to review content seen in the pool, a 26-day immersion where you compete for a vacancy in the 42nd, and learn important content that was not achieved in this immersion but will be fundamental in training. In this list you can see basic concepts in Shell, such as changing permissions, creating text files and other commands. We also reviewed basic C concepts such as using while loops, reading and manipulating strings and pointers, performing recursion, learning Malloc, creating headers, making a makefile, and creating a program.
